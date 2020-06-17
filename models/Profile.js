@@ -5,7 +5,7 @@ var profileSchema = new Schema({
   type: {
     type: String
   },
-  descript: {
+  describe: {
     type: String
   },
   income: {
